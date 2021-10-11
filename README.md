@@ -1,2 +1,2 @@
 # Social-Media-Dashboard-Light-and-Dark-Mode
-Social Media Dashboard with light and dark mode
+FrontEnd Mentor coding challenge Social Media Dashboard with light and dark mode
